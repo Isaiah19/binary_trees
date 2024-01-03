@@ -1,4 +1,5 @@
 C - Binary trees
+This project done by Isaiah and Omondi
 In this project I understood the following:
 Binary tree
 Data Structure and Algorithms - Tree
